@@ -6,39 +6,39 @@
   
 }
 
-.eyeglassses{
+.explore-eyeglassses{
   
   width: 50%;
  
   
   margin-left: 5%;
 }
-.eyeglassses img{
+.explore-eyeglassses img{
 max-height: 70%;
 max-width: 100%;
 }
-.eyeglassses h1, .eyeglassses h3, .eyeglassses h4 {
+.explore-eyeglassses h1, .explore-eyeglassses h3, .explore-eyeglassses h4 {
   padding-top: 25px;
   font-family: "Poppins", Sans-serif;
 }
 
-.sunglasses{
+.explore-sunglasses{
   
   width: 50%;
  
 }
-.sunglasses img{
+.explore-sunglasses img{
   margin-top: 10%;
   max-height: 70%;
   max-width: 100%;
   }
 
-  .sunglasses h1, .sunglasses h3, .sunglasses h4 {
+  .explore-sunglasses h1, .explore-sunglasses h3, .explore-sunglasses h4 {
     padding-top: 17px;
     font-family: "Poppins", Sans-serif;
     
   }
-  .sunglasses h1,.eyeglassses h1{
+  .explore-sunglasses h1,.explore-eyeglassses h1{
     font-size: 40px;
   }
 
